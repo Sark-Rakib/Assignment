@@ -18,7 +18,7 @@ body {
     font-weight: 900;
 }
 header{ 
-    background-image: url("..//Assets/Hero-bg.png");
+    background-image: url("../Assets/Hero-bg.png");
     height: 540px;
 }
 
